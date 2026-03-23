@@ -157,10 +157,11 @@ flutter build apk
 
 ## Author
 
-Your Name
+Harsh Yadav
+
 Flutter Developer | Aspiring AI Engineer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Harsh-Yadav73
 
 ---
 
